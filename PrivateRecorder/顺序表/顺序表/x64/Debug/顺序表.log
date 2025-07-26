@@ -1,3 +1,0 @@
-﻿  顺序表.cpp
-D:\数据结构\学习C语言版\顺序表\顺序表.cpp(9,16): warning C4091: “typedef ”: 没有声明变量时忽略“SqList”的左侧
-  顺序表.vcxproj -> D:\数据结构\学习C语言版\顺序表\x64\Debug\顺序表.exe
